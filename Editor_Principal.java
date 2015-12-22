@@ -164,7 +164,7 @@ public class Editor_Principal extends JFrame
 
   public Editor_Principal()
   {
-    super("EdiMax v1.0  [ OC Sistemax ]");
+    super("EdiMax v1.0");
 
     this.oyenEtiqueCur = new OyenteEtiquetaCursor("Estado del cursor");
     this.undoAction = new UndoAction();
