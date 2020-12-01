@@ -71,7 +71,7 @@ import javax.swing.undo.UndoManager;
  */
 
 /**
- * @author Kalasni
+ * @author ocm128 | tdoc@tutamail.com
  */
 
 
@@ -983,7 +983,7 @@ public class Editor_Principal extends JFrame
 
   public void acercaDe()
   {
-    JOptionPane.showMessageDialog(null, "\nEdiMax v1.0\n\nby Kalasni\n\nEmail:  kalassni@gmail.com    \n\n", "Acerca de", 1);
+    JOptionPane.showMessageDialog(null, "\nEdiMax v1.0\n\nby ocm128\n\nEmail:  tdoc@tutamail.com    \n\n", "Acerca de", 1);
   }
 
   public static void main(String[] args)
