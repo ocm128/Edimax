@@ -10,7 +10,7 @@ package edit;
  */
 
 /**
- * @author ocm128 | tdoc@tutamail.com
+ * @author ocm128 
  */
 
 import java.awt.Color;
